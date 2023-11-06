@@ -65,7 +65,12 @@ flutter:
     - assets/images/Chris_Hemswort/ 
 
     - assets/images/Robert_Downey/
-  #   - images/a_dot_ham.jpeg
+
+    - assets/images/Egor_kreed/
+
+    - assets/images/My_Picture/
+
+    - assets/images/Tom_Holland/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
