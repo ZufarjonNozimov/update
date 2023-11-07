@@ -121,7 +121,9 @@ class _AlbumsPageState extends State<AlbumsPage> {
                     fontFamily: "Griffy",
                   ),
                 ),
-                onPressed: () {},
+                onPressed: () {
+                   Navigator.pushNamed(context, MyPicture.route);
+                },
               ),
             ),
             const SizedBox(height: 20),
